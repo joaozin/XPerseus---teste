@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : empresaAerea.xml
+    Created on : 11 de aeroportovembro de 2011, 19:39
+    Author     : Plínio
+    Description:
+        Purpose of the document follows.
+-->
+
+<empresaAerea>
+  <aeroportos>
+    <aeroporto>
+      <nome>A</nome>
+    </aeroporto>
+    <aeroporto>
+      <nome>B</nome>
+    </aeroporto>
+    <aeroporto>
+      <nome>C</nome>
+    </aeroporto>
+    <aeroporto>
+      <nome>D</nome>
+    </aeroporto>    
+    <aeroporto>
+      <nome>E</nome>
+    </aeroporto>    
+    <aeroporto>
+      <nome>F</nome>
+    </aeroporto>
+    <aeroporto>
+      <nome>G</nome>
+    </aeroporto>     
+  </aeroportos>
+
+  <arestas>
+    <aresta>  
+      <aeroporto_aresta>AB</aeroporto_aresta>  
+      <inicio>A</inicio>
+      <fim>B</fim>
+    </aresta>
+    <aresta>
+      <aeroporto_aresta>EF</aeroporto_aresta>  
+      <inicio>E</inicio>
+      <fim>F</fim>
+    </aresta>  
+    <aresta>
+      <aeroporto_aresta>DF</aeroporto_aresta>          
+      <inicio>D</inicio>
+      <fim>F</fim>
+    </aresta>    
+    <aresta>
+      <aeroporto_aresta>AD</aeroporto_aresta>          
+      <inicio>A</inicio>
+      <fim>D</fim>
+    </aresta>   
+    <aresta>
+      <aeroporto_aresta>BF</aeroporto_aresta>         
+      <inicio>B</inicio>
+      <fim>F</fim>
+    </aresta>  
+    <aresta>
+      <aeroporto_aresta>CD</aeroporto_aresta>         
+      <inicio>C</inicio>
+      <fim>D</fim>
+    </aresta>
+    <aresta>
+      <aeroporto_aresta>EA</aeroporto_aresta>         
+      <inicio>E</inicio>
+      <fim>A</fim>
+    </aresta>
+    <aresta>
+      <aeroporto_aresta>GD</aeroporto_aresta>         
+      <inicio>G</inicio>
+      <fim>D</fim>
+    </aresta>
+  </arestas>
+  
+  <rotas>
+    <rota>
+        <aeroporto_rota>Rota Verde</aeroporto_rota>
+        <arestas_rota>A,B,F,E</arestas_rota>
+    </rota>
+    <rota>
+        <aeroporto_rota>Rota Amarela</aeroporto_rota>
+        <arestas_rota>C,D,A</arestas_rota>
+    </rota>
+  </rotas>
+  
+  <voos>
+    <voo>
+        <numero_voo>001</numero_voo>
+        <rota_voo>Rota Verde</rota_voo>
+    </voo>
+    <voo>
+        <numero_voo>002</numero_voo>
+        <rota_voo>Rota Amarela</rota_voo>
+    </voo>    
+  </voos>
+</empresaAerea>

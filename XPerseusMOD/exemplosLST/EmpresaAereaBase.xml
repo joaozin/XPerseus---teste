@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresaAerea>
+  <aeroportos>
+    <aeroporto>
+      <nome>Brasilia</nome>
+    </aeroporto>
+    <aeroporto>
+      <nome>Guarulhos</nome>
+    </aeroporto>
+    <aeroporto>
+      <nome>Congonhas</nome>
+    </aeroporto>
+    <aeroporto>
+      <nome>Confins</nome>
+    </aeroporto>    
+    <aeroporto>
+      <nome>Fiumicino</nome>
+    </aeroporto>    
+    <aeroporto>
+      <nome>Cumbica</nome>
+    </aeroporto>
+    <aeroporto>
+      <nome>Galeao</nome>
+    </aeroporto>     
+  </aeroportos>
+  
+  <rotas>
+    <rota>
+        <nome_rota>Rota Verde</nome_rota>
+		<aeroportos_visitados>
+			<visitado>Brasilia</visitado>
+			<visitado>Guarulhos</visitado>
+			<visitado>Fiumicino</visitado>
+			<visitado>Galeao</visitado>
+		</aeroportos_visitados>
+    </rota>
+    <rota>
+        <nome_rota>Rota Amarela</nome_rota>
+		<aeroportos_visitados>
+			<visitado>Brasilia</visitado>
+			<visitado>Confins</visitado>
+			<visitado>Cumbica</visitado>
+		</aeroportos_visitados>
+    </rota>
+  </rotas>
+  
+  <voos>
+    <voo>
+        <numero_voo>001</numero_voo>
+        <rota_voo>Rota Verde</rota_voo>
+    </voo>
+    <voo>
+        <numero_voo>002</numero_voo>
+        <rota_voo>Rota Amarela</rota_voo>
+    </voo>    
+  </voos>
+</empresaAerea>

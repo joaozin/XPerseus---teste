@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresaAerea>
+  <aeroportos>
+	<aeroporto>
+	  <nome>Viracopos</nome>
+	</aeroporto>
+	<aeroporto>
+	  <nome>Guarulhos</nome>
+	</aeroporto>
+	<aeroporto>
+	  <nome>Congonhas</nome>
+	</aeroporto>
+	<aeroporto>
+	  <nome>Campo de Marte</nome>
+	</aeroporto>    
+	<aeroporto>
+	  <nome>São José dos Campos</nome>
+	</aeroporto>    
+	<aeroporto>
+ 	  <nome>Santos-Dumont</nome>
+	</aeroporto>
+	<aeroporto>
+	  <nome>Galeão</nome>
+	</aeroporto>
+    <aeroporto>
+      <nome>Pampulha</nome>
+    </aeroporto>
+    <aeroporto>
+      <nome>Itamar Franco</nome>
+    </aeroporto>     
+  </aeroportos>
+  
+  <rotas>
+  	<rota>
+      <nome_rota>Rota Verde</nome_rota>
+		<aeroportos_visitados>
+			<visitado>Viracopos</visitado>
+			<visitado>Guarulhos</visitado>
+			<visitado>Santos Dumont</visitado>
+			<visitado>São José dos Campos</visitado>
+			<visitado>Pampulha</visitado>
+		</aeroportos_visitados>
+  	</rota>
+  	<rota>
+      <nome_rota>Rota Amarela</nome_rota>
+		<aeroportos_visitados>
+			<visitado>Viracopos</visitado>
+			<visitado>Campo de Marte</visitado>
+			<visitado>Congonhas</visitado>
+		</aeroportos_visitados>
+  	</rota>
+	<rota>
+        <nome_rota>Rota Azul</nome_rota>
+		<aeroportos_visitados>
+			<visitado>Galeão</visitado>
+			<visitado>Itamar Franco</visitado>
+			<visitado>Pampulha</visitado>
+		</aeroportos_visitados>
+    </rota>
+  </rotas>
+  
+  <voos>
+    <voo>
+        <numero_voo>001</numero_voo>
+        <rota_voo>Rota Verde</rota_voo>
+    </voo>
+    <voo>
+        <numero_voo>002</numero_voo>
+        <rota_voo>Rota Amarela</rota_voo>
+    </voo>    
+  </voos>
+</empresaAerea>

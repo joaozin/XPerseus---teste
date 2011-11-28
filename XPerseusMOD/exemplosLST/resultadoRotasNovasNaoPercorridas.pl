@@ -1,0 +1,2 @@
+ROTA_NOVA_NAO_PERCORRIDA:
+'rota azul'

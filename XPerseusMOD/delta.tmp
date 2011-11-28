@@ -1,0 +1,70 @@
+<?xml version="1.0"?><delta><Deleted pos="0:1:3:3:4">
+    </Deleted><Deleted pos="0:1:3:3:0">
+        </Deleted><Deleted pos="0:1:3:2">
+    </Deleted><Deleted move="yes" pos="0:1:3:1:4">
+    </Deleted><Deleted move="yes" pos="0:1:3:1:0">
+        </Deleted><Deleted pos="0:1:3:0">
+    </Deleted><Deleted pos="0:1:1:13:2">
+    </Deleted><Deleted pos="0:1:1:13:0">
+      </Deleted><Deleted pos="0:1:1:12">
+    </Deleted><Deleted pos="0:1:1:11:2">
+    </Deleted><Deleted pos="0:1:1:11:0">
+      </Deleted><Deleted pos="0:1:1:10">    
+    </Deleted><Deleted pos="0:1:1:9:2">
+    </Deleted><Deleted pos="0:1:1:9:0">
+      </Deleted><Deleted pos="0:1:1:8">    
+    </Deleted><Deleted pos="0:1:1:7:2">
+    </Deleted><Deleted move="yes" pos="0:1:1:7:0">
+      </Deleted><Deleted pos="0:1:1:6">
+    </Deleted><Deleted pos="0:1:1:5:2">
+    </Deleted><Deleted move="yes" pos="0:1:1:5:0">
+      </Deleted><Deleted pos="0:1:1:4">
+    </Deleted><Deleted move="yes" pos="0:1:1:3:2">
+    </Deleted><Deleted move="yes" pos="0:1:1:3:0">
+      </Deleted><Deleted move="yes" pos="0:1:1:2">
+    </Deleted><Deleted move="yes" pos="0:1:1:1:2">
+    </Deleted><Deleted move="yes" pos="0:1:1:1:0">
+      </Deleted><Deleted move="yes" pos="0:1:1:0">
+    </Deleted><Inserted pos="0:1:1:0">
+	</Inserted><Inserted pos="0:1:1:1:0">
+	  </Inserted><Inserted pos="0:1:1:1:2">
+	</Inserted><Inserted pos="0:1:1:2">
+	</Inserted><Inserted pos="0:1:1:3:0">
+	  </Inserted><Inserted pos="0:1:1:3:2">
+	</Inserted><Inserted pos="0:1:1:4">
+	</Inserted><Inserted pos="0:1:1:5:0">
+	  </Inserted><Inserted pos="0:1:1:5:2">
+	</Inserted><Inserted pos="0:1:1:6">
+	</Inserted><Inserted pos="0:1:1:7:0">
+	  </Inserted><Inserted pos="0:1:1:7:2">
+	</Inserted><Inserted pos="0:1:1:8">    
+	</Inserted><Inserted pos="0:1:1:9:0">
+	  </Inserted><Inserted pos="0:1:1:9:2">
+	</Inserted><Inserted pos="0:1:1:10">    
+	</Inserted><Inserted pos="0:1:1:11:0">
+ 	  </Inserted><Inserted pos="0:1:1:11:2">
+	</Inserted><Inserted pos="0:1:1:12">
+	</Inserted><Inserted pos="0:1:1:13:0">
+	  </Inserted><Inserted pos="0:1:1:13:2">
+	</Inserted><Inserted move="yes" pos="0:1:1:14">
+    </Inserted><Inserted pos="0:1:1:15"><aeroporto><nome>Pampulha</nome></aeroporto></Inserted><Inserted move="yes" pos="0:1:1:15:0">
+      </Inserted><Inserted move="yes" pos="0:1:1:15:2">
+    </Inserted><Inserted move="yes" pos="0:1:1:16">
+    </Inserted><Inserted pos="0:1:1:17"><aeroporto><nome>Serrinha</nome></aeroporto></Inserted><Inserted move="yes" pos="0:1:1:17:0">
+      </Inserted><Inserted move="yes" pos="0:1:1:17:2">
+    </Inserted><Inserted pos="0:1:3:0">
+  	</Inserted><Inserted move="yes" pos="0:1:3:1:0">
+      </Inserted><Inserted pos="0:1:3:1:3:8">
+			</Inserted><Inserted pos="0:1:3:1:3:9"><visitado>Serrinha</visitado></Inserted><Inserted pos="0:1:3:1:4">
+  	</Inserted><Inserted pos="0:1:3:2">
+  	</Inserted><Inserted move="yes" pos="0:1:3:3:0">
+      </Inserted><Inserted pos="0:1:3:3:4">
+  	</Inserted><Inserted pos="0:1:3:4">
+	</Inserted><Inserted pos="0:1:3:5"><rota><nome_rota>Rota Azul</nome_rota>
+		<aeroportos_visitados>
+			<visitado>Galeao</visitado>
+			<visitado>Serrinha</visitado>
+			<visitado>Brasilia</visitado>
+		</aeroportos_visitados></rota></Inserted><Inserted move="yes" pos="0:1:3:5:0">
+        </Inserted><Inserted move="yes" pos="0:1:3:5:4">
+    </Inserted></delta>

@@ -1,0 +1,10 @@
+<empresaArea>
+	<frota>
+		<operacao>Venda</operacao>
+		Em 
+		<data>30/10/2011</data>
+		<aviao capacidade="100">
+			Embraer
+		</aviao>
+	</frota>
+</empresaArea>

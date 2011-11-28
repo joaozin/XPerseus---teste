@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa> 
+   <funcionario>
+      <id>10</id>
+      <nome>Joao</nome>
+      <salario>2500</salario>
+      <cargo>Analista de Sistemas Pleno</cargo>
+      <depto>Tecnologia da Informacao</depto>
+      <filial>Juiz de Fora</filial>
+   </funcionario>
+   <funcionario>
+      <id>14</id>
+      <nome>Pedro</nome>
+      <salario>1900</salario>
+      <cargo>Suporte Help Desk</cargo>
+      <depto>Tecnologia da Informacao</depto>
+      <filial>Sao Paulo</filial>
+   </funcionario>
+   <funcionario>
+      <id>24</id>
+      <nome>Jose</nome>
+      <salario>2000</salario>
+      <cargo>Desenvolvedor</cargo>
+      <depto>Tecnologia da Informacao</depto>
+      <filial>Sao Paulo</filial>
+   </funcionario>
+   <funcionario>
+      <id>34</id>
+      <nome>Maria</nome>
+      <salario>3900</salario>
+      <cargo>Gerente</cargo>
+      <depto>Marketing</depto>
+      <filial>Rio de Janeiro</filial>
+   </funcionario>
+   <funcionario>
+      <id>44</id>
+      <nome>Ana</nome>
+      <salario>3900</salario>
+      <cargo>Vendedor</cargo>
+      <depto>Vendas</depto>
+      <filial>Niteroi</filial>
+   </funcionario>
+   <funcionario>
+      <id>48</id>
+      <nome>Tiago</nome>
+      <salario>4000</salario>
+      <cargo>Gerente</cargo>
+      <depto>Vendas</depto>
+      <filial>Rio de Janeiro</filial>
+   </funcionario>
+</empresa>
+
